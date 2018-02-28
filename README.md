@@ -14,3 +14,9 @@
 
   * [Vector Icons](https://expo.github.io/vector-icons/)
   * [OpenWeatherMap API](https://openweathermap.org/api)
+
+## Result
+
+### iOS
+
+  ![](/images/ios.png)
