@@ -10,7 +10,7 @@
   * Visual Studio Code
   * [Expo Snack](https://snack.expo.io/)
 
-## What I have used
+## Materials I have used
 
   * [Vector Icons](https://expo.github.io/vector-icons/)
   * [OpenWeatherMap API](https://openweathermap.org/api)
@@ -20,3 +20,7 @@
 ### iOS
 
   ![](/images/ios.png)
+
+### Application Location in Expo
+
+  [Weather App](https://expo.io/@sangwon/weather-app)
